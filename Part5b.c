@@ -10,7 +10,7 @@
 
 int main() {
 
-  printf("Cole McReynolds\n");
+  printf("Cole McReynolds and Dom Giandinoto\n");
 
   return 0;
 }
